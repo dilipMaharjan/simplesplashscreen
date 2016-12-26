@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/dmaharjan/AndroidStudioProjects/SimpleSplashScreen/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ab731ad7265f95ddbf832d40b5d8206bed290b76">
+        <dex dex="/home/dmaharjan/AndroidStudioProjects/SimpleSplashScreen/app/build/intermediates/pre-dexed/debug/instant-run_1935b7c7fc9a41fe4a2a2b720aaadd2a31616125.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dmaharjan/AndroidStudioProjects/SimpleSplashScreen/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/dmaharjan/AndroidStudioProjects/SimpleSplashScreen/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_8421345bf55664c429e99b1e52a5d0d5b19b6d64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dmaharjan/AndroidStudioProjects/SimpleSplashScreen/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/dmaharjan/AndroidStudioProjects/SimpleSplashScreen/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_b85be300ad5cdd42ac0892ec3fb14c9a8995cdd7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dmaharjan/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/dmaharjan/AndroidStudioProjects/SimpleSplashScreen/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_530cf66c3b6bc4936328e526f459f3b660c68559.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dmaharjan/AndroidStudioProjects/SimpleSplashScreen/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/dmaharjan/AndroidStudioProjects/SimpleSplashScreen/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_1fb37d4fb55005606b2905c2f86fb181f4dbbff8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dmaharjan/AndroidStudioProjects/SimpleSplashScreen/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/dmaharjan/AndroidStudioProjects/SimpleSplashScreen/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_33c998f7acd84003578669eb392f1b1933b5b7f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dmaharjan/AndroidStudioProjects/SimpleSplashScreen/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3cc71f67fe95c8c74a6f3e47af70a745722c8caa">
+        <dex dex="/home/dmaharjan/AndroidStudioProjects/SimpleSplashScreen/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_52c1c3f0881efc98f94ddcc54c4258915634ae14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dmaharjan/AndroidStudioProjects/SimpleSplashScreen/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/dmaharjan/AndroidStudioProjects/SimpleSplashScreen/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_c04fd8eee0cba2532a3cec389e5475d3feea06cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dmaharjan/AndroidStudioProjects/SimpleSplashScreen/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/dmaharjan/AndroidStudioProjects/SimpleSplashScreen/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_7a61a649e5a34774bca1350e1ebfb35bd3e8d468.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dmaharjan/AndroidStudioProjects/SimpleSplashScreen/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/dmaharjan/AndroidStudioProjects/SimpleSplashScreen/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_010eed87152c47d5ae8e1d469f2dc676c30074c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dmaharjan/AndroidStudioProjects/SimpleSplashScreen/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/dmaharjan/AndroidStudioProjects/SimpleSplashScreen/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_fc50db51ccaca2d42ba17c857d34169ef1179df0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dmaharjan/AndroidStudioProjects/SimpleSplashScreen/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/dmaharjan/AndroidStudioProjects/SimpleSplashScreen/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_c409da12f2ad480ab02acb4c9016b55ef759689f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dmaharjan/AndroidStudioProjects/SimpleSplashScreen/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/dmaharjan/AndroidStudioProjects/SimpleSplashScreen/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_cc9a5f59e3597430b67172fdd752786f9cb13343.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dmaharjan/AndroidStudioProjects/SimpleSplashScreen/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/dmaharjan/AndroidStudioProjects/SimpleSplashScreen/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_0d38baf0df04320a5dfc10e54ff2492e7de03df8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dmaharjan/AndroidStudioProjects/SimpleSplashScreen/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/dmaharjan/AndroidStudioProjects/SimpleSplashScreen/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_acab9a17dba07db4ed56b61fa4158109f18f9010.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dmaharjan/AndroidStudioProjects/SimpleSplashScreen/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/dmaharjan/AndroidStudioProjects/SimpleSplashScreen/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_fa30febb0b21fa2ac6a49844cb2a7286d61c7e9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dmaharjan/AndroidStudioProjects/SimpleSplashScreen/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/dmaharjan/AndroidStudioProjects/SimpleSplashScreen/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_6ed339ca3f1daccefa8dee6f12721756aeb32592.jar" />
+    </item>
+
+</items>
